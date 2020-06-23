@@ -5,3 +5,7 @@ Timbooms have been known to misspell words.
 Some Timbooms work from their local machines and try to upload to Github.
 This continued on, until I downloaded from Github to PyCharm.
 From branch 20200623-2 (2 because the previous sentence was a branch).
+Procedure:
+1. Open a branch on the client VCS->VCS Ops popup->Branches->New branch (20200623-3New)
+2. Changes made
+3. VCS operations popup commit
