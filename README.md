@@ -13,3 +13,11 @@ Procedure:
 5. Create pull request on the Github side
 6. Fill in comment body on the github side.
 7. Merge and delete branch on the Github side.
+
+This line is "Controlled by Trello card" - meaning that:
+a. A card was created in Trello with the task
+b. A branch was created in Github.
+c. The branch was attached to the Trello card.
+d. The branch was "pulled" into PyCharm.
+e. Procedure above followed. The remote branch is "Checked out".
+
