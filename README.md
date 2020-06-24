@@ -9,6 +9,8 @@ Procedure:
 1. Open a branch on the client VCS->VCS Ops popup->Branches->New branch (or checkout, per below)
 2. Changes made
 3. VCS operations popup commit (fill in comment) - drop-down to push at same time
+3a. Can get commits alone to Github with VCS->Git->Push and select the Commit.
+        This is exactly the same effect as step(4) below.
 4. VCS operations popup push (creates pull request)
 5. Create pull request on the Github side
 6. Fill in comment body on the github side.
@@ -25,4 +27,8 @@ e. The remote branch is "Checked out".
 f. Procedure above followed. 
 
 {Trying to see if we can get commits to Github thence to Trello}
+{Add a second commit to the same branch to see what happens (prior to merge)
+{No issue reference available in PyCharm. Try to get into pull.}
+
+
 
