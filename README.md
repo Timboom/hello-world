@@ -13,6 +13,7 @@ Procedure:
 5. Create pull request on the Github side
 6. Fill in comment body on the github side.
 7. Merge and delete branch on the Github side.
+8. Note that Trello displays the status "Merged" on the front of the card.
 
 This line is "Controlled by Trello card" - meaning that:
 a. A card was created in Trello with the task
@@ -22,4 +23,6 @@ d. The branch was "pulled" into PyCharm,
        using VCS->Git->Pull then "refresh" button then pick from "Branches to merge" list
 e. The remote branch is "Checked out".
 f. Procedure above followed. 
+
+{Trying to see if we can get commits to Github thence to Trello}
 
