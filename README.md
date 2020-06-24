@@ -6,7 +6,7 @@ Some Timbooms work from their local machines and try to upload to Github.
 This continued on, until I downloaded from Github to PyCharm.
 
 Procedure:
-1. Open a branch on the client VCS->VCS Ops popup->Branches->New branch
+1. Open a branch on the client VCS->VCS Ops popup->Branches->New branch (or checkout, per below)
 2. Changes made
 3. VCS operations popup commit (fill in comment) - drop-down to push at same time
 4. VCS operations popup push (creates pull request)
@@ -18,6 +18,8 @@ This line is "Controlled by Trello card" - meaning that:
 a. A card was created in Trello with the task
 b. A branch was created in Github.
 c. The branch was attached to the Trello card.
-d. The branch was "pulled" into PyCharm.
-e. Procedure above followed. The remote branch is "Checked out".
+d. The branch was "pulled" into PyCharm,
+       using VCS->Git->Pull then "refresh" button then pick from "Branches to merge" list
+e. The remote branch is "Checked out".
+f. Procedure above followed. 
 
