@@ -30,5 +30,7 @@ f. Procedure above followed.
 {Add a second commit to the same branch to see what happens (prior to merge)
 {No issue reference available in PyCharm. Try to get into pull.}
 
+{Now in Visual Studio b/c I don't want to lear in multiple environments'}
+
 
 
