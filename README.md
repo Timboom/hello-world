@@ -26,6 +26,9 @@ d. The branch was "pulled" into PyCharm,
 e. The remote branch is "Checked out".
 f. Procedure above followed. 
 
+New plan:
+At work, I have to use VS, so it makes sense to do my own work this way too. Stiil no home stuff on the work computer and vice versa.
+
 {Trying to see if we can get commits to Github thence to Trello}
 {Add a second commit to the same branch to see what happens (prior to merge)
 {No issue reference available in PyCharm. Try to get into pull.}
